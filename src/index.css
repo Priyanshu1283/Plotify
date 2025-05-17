@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* primary - #1F1E24 */
+/* sec- #6556CD */
+
+    ::-webkit-scrollbar{
+        width: 7px;
+        height: 7px;
+    }
+
+::-webkit-slider-thumb{
+    background: rgba(24, 1, 1, 0.644);
+    border-radius: 10px;
+}
